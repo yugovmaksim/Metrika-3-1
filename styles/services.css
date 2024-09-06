@@ -1,0 +1,31 @@
+.section {
+  margin-top: 150px;
+  padding-top: 151px;
+  padding-bottom: 90px;
+  background-color: #121212;
+}
+
+.services {
+  margin-bottom: 60px;
+}
+
+.services__text {
+  margin-bottom: 34px;
+  margin-left: 2px;
+  width: 66px;
+  font-size: 18px;
+  line-height: 24.59px;
+  color: #ffffff;
+}
+
+.services__image {
+  margin-bottom: 13px;
+  width: 100%;
+  height: 270px;
+}
+
+.services__text-description {
+  font-size: 30px;
+  line-height: 40.98px;
+  color: #ffffff;
+}
